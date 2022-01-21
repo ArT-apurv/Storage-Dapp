@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #b9286b;
+  color: white;
+  font-weight: 600;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+.spanStyle {
+  float: right;
+}
